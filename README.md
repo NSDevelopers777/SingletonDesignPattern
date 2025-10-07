@@ -13,5 +13,7 @@ All Cases Related to Design Pattern
 
 #6 BrokenSingleton.java & SerializationBreakDemo.java: Shows how Serialization and DeSerialization breaks the Singleton pattern.
 
-#7 
+#7 SafeSingleton1.java & SerializationBreakDemo1.java: Shows how to preserve the Singleton nature.
+
+#8 SingletonEnum.java & Main.java: How Enum is the best choice for Singleton Design Pattern.
 
